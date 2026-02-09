@@ -1,9 +1,5 @@
 # Bad Apple Rolling Pixels
 
-### 效果展示
-
-见 [演示视频](https://www.bilibili.com/video/BV1MsXhYkEZC)（建议在大屏设备上观看）
-
 ### 环境要求
 
 ```
@@ -71,6 +67,4 @@ bad-apple-rolling-pixels/
 - 处理时间取决于视频分辨率和长度
 - 建议在处理高分辨率视频时保证足够的内存空间
 
-### 许可证
 
-MIT License
